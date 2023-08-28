@@ -43,4 +43,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-For questions or further information, feel free to reach out to us at priyampatel704@gmail.com.
+For questions or further information, feel free to reach out to me at priyampatel704@gmail.com.
