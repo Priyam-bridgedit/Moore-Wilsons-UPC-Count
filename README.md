@@ -24,7 +24,6 @@ $ git clone https://github.com/Priyam-bridgedit/Moore-Wilsons-UPC-Count.git
 $ cd Moore-Wilsons-UPC-Count
 Install the required dependencies:
 bash
-Copy code
 $ pip install -r requirements.txt
 Usage
 To use the UPC Count Report tool:
